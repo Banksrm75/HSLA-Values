@@ -1,0 +1,43 @@
+.Lightness-High {
+    background-color: hsla(0, 50%, 100%, 0.9);
+}
+
+.Lightness-90 {
+    background-color: hsla(0, 50%, 90%, 0.9);
+}
+
+.Lightness-80 {
+    background-color: hsla(0, 50%, 80%, 0.9);
+}
+
+.Lightness-70 {
+    background-color: hsla(0, 50%, 70%, 0.9);
+}
+
+.Lightness-60 {
+    background-color: hsla(0, 50%, 60%, 0.9);
+}
+
+.Lightness-50 {
+    background-color: hsla(0, 50%, 50%, 0.9);
+}
+
+.Lightness-40 {
+    background-color: hsla(0, 50%, 40%, 0.9);
+}
+
+.Lightness-30 {
+    background-color: hsla(0, 50%, 30%, 0.9);
+}
+
+.Lightness-20 {
+    background-color: hsla(0, 50%, 20%, 0.9);
+}
+
+.Lightness-10 {
+    background-color: hsla(0, 50%, 10%, 0.9);
+}
+
+.Lightness-Low {
+    background-color: hsla(0, 50%, 0%, 0.9);
+}

@@ -1,0 +1,43 @@
+.AlphaOpacity-High {
+    background-color: hsla(0, 50%, 50%, 0.99999);
+}
+
+.AlphaOpacity-9 {
+    background-color: hsla(0, 50%, 50%, 0.9);
+}
+
+.AlphaOpacity-8 {
+    background-color: hsla(0, 50%, 50%, 0.8);
+}
+
+.AlphaOpacity-7 {
+    background-color: hsla(0, 50%, 50%, 0.7);
+}
+
+.AlphaOpacity-6 {
+    background-color: hsla(0, 50%, 50%, 0.6);
+}
+
+.AlphaOpacity-5 {
+    background-color: hsla(0, 50%, 50%, 0.5);
+}
+
+.AlphaOpacity-4 {
+    background-color: hsla(0, 50%, 50%, 0.4);
+}
+
+.AlphaOpacity-3 {
+    background-color: hsla(0, 50%, 50%, 0.3);
+}
+
+.AlphaOpacity-2 {
+    background-color: hsla(0, 50%, 50%, 0.2);
+}
+
+.AlphaOpacity-1 {
+    background-color: hsla(0, 50%, 50%, 0.1);
+}
+
+.AlphaOpacity-Low {
+    background-color: hsla(0, 50%, 50%, 0);
+}

@@ -1,0 +1,42 @@
+.Saturation-High {
+    background-color: hsla(0, 100%, 50%, 0.9);
+}
+
+.Saturation-90 {
+    background-color: hsla(0, 90%, 50%, 0.9);
+}
+
+.Saturation-80 {
+    background-color: hsla(0, 80%, 50%, 0.9);
+}
+
+.Saturation-70 {
+    background-color: hsla(0, 70%, 50%, 0.9);
+}
+
+.Saturation-60 {
+    background-color: hsla(0, 60%, 50%, 0.9);
+}
+
+.Saturation-50 {
+    background-color: hsla(0, 50%, 50%, 0.9);
+}
+.Saturation-40 {
+    background-color: hsla(0, 40%, 50%, 0.9);
+}
+
+.Saturation-30 {
+    background-color: hsla(0, 30%, 50%, 0.9);
+}
+
+.Saturation-20 {
+    background-color: hsla(0, 20%, 50%, 0.9);
+}
+
+.Saturation-10 {
+    background-color: hsla(0, 10%, 50%, 0.9);
+}
+
+.Saturation-Low {
+    background-color: hsla(0, 0%, 50%, 0.9);
+}
